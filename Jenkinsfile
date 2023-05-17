@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('Build Image') {
 			steps {
-				echo 'Iniciando a pipeline'
+				echo 'Iniciando a pipeline automaticamente'
 			}	
 		}
 	}
